@@ -1,0 +1,4 @@
+serial_port: /dev/ttyUSB0
+baud_rate: 2400
+address: 112233445566
+server_port: 8080
